@@ -8,6 +8,8 @@ The full version includes:
 - Configurable parameters (symbol, timeframe, RSI thresholds, etc.)
 - Signal-only mode or full auto-execution
 
+To run this program, you just need to install required dependancies and start it.
+
 📄 More details and backtest results here:  
 👉 [Notion page with screenshots & performance](https://regal-friday-0d4.notion.site/Rimagh-s-Trading-bot-246031a720ff80b2b35bd602251ed6cb)
 
@@ -15,6 +17,7 @@ The full version includes:
 👉 [Gumroad – RSI Bot for Binance](https://akamisuta.gumroad.com/)
 
 This repo is meant for **educational and transparency purposes**, and as a technical preview of the complete product.
+The rest of this README stands for the real bot.
 
 # 🚀 CRYPTO TRADING BOT - Complete Beginner's Guide
 
