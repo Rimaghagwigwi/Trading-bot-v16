@@ -1,3 +1,21 @@
+# RSI Backtest – From a Real Binance Trading Bot
+
+⚠️ This repository contains **only the backtesting module** of a complete trading bot that runs live on Binance with real funds.
+
+The full version includes:
+- Live trading with Binance API (spot only)
+- RSI-based strategy, and the possibility to easily add more conditions
+- Configurable parameters (symbol, timeframe, RSI thresholds, etc.)
+- Signal-only mode or full auto-execution
+
+📄 More details and backtest results here:  
+👉 [Notion page with screenshots & performance](https://regal-friday-0d4.notion.site/Rimagh-s-Trading-bot-246031a720ff80b2b35bd602251ed6cb)
+
+🔗 The full version of the bot is available for purchase:  
+👉 [Gumroad – RSI Bot for Binance](https://akamisuta.gumroad.com/)
+
+This repo is meant for **educational and transparency purposes**, and as a technical preview of the complete product.
+
 # 🚀 CRYPTO TRADING BOT - Complete Beginner's Guide
 
 > **⚠️ IMPORTANT:** This bot uses real money! ALWAYS start in TEST mode before using real funds.
@@ -338,7 +356,7 @@ Supported pairs:
 ## 📞 Support
 
 If you're still stuck after reading this guide:
-Contact me at akamisuta.gamer@gmail.com
+Contact me at [MAIL ONLY AVAILABLE FOR PAID USERS]
 
 **Remember:** Trading crypto carries risk. This bot is a tool, not a guarantee of profits. Always trade responsibly!
 
